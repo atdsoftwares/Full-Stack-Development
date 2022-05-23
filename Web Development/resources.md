@@ -24,7 +24,12 @@ Here I have divided the all these tech stack in three parts : 🧵
 
 3. DevOps -> 3 Projects
 
+
+
 Breaking down things in simple words :
+
+
+![1653320130134.png](image/resources/1653320130134.png)
 
 - Linux -Foundation for DevOps
 - AWS/Azure - Cloud Technologies
